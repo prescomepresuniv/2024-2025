@@ -9,17 +9,18 @@
 - Menambahkan file README.md dan melakukan commit pertama.
 
 2. **Membuat Branch untuk Fitur**
-- Setiap anggota tim membuat branch baru untuk fitur yang akan mereka kerjakan.
+- Tiap orang di tim bikin branch baru buat fitur yang lagi dikerjain. Misalnya: "fitur-login" atau "fitur-keranjang-belanja."
+- Ibarat jalan, tiap orang pake jalur masing-masing biar nggak tabrakan.
 
 3. **Mengembangkan Fitur**
-- Anggota tim mengembangkan fitur di branch masing-masing, menambahkan file seperti login.js dan melakukan commit.
+- Tiap orang fokus ngembangin fitur di branch mereka. Misalnya bikin file ``login.js`` atau ``cart.js``, terus commit tiap ada progress.
 
 4. **Menggabungkan Perubahan**
-- Setelah fitur selesai, anggota tim melakukan push ke repositori GitHub
-- Anggota tim kemudian membuka GitHub, membuat pull request untuk menggabungkan perubahan ke branch **main**.
+- Kalau fiturnya udah jadi, kalian tinggal push branch itu ke GitHub.
+- Langsung bikin pull request (PR) di GitHub biar bisa digabung ke branch utama alias **main**.
 
 5. **Review dan Merge**
-- Tim melakukan review terhadap pull request. Setelah disetujui, perubahan digabungkan ke branch **main**.
+- Tim melakukan review terhadap pull request. Setelah disetujui, perubahan digabungkan ke branch **main**. (Merge GitHub adalah cara untuk menyatukan kembali riwayat yang bercabang dalam Git.)
 
 6. **Menarik Perubahan Terbaru**
 - Anggota tim lainnya menarik perubahan terbaru dari branch **main** untuk memastikan mereka memiliki versi terbaru dari kode.
